@@ -1,4 +1,4 @@
-#!/usr/bin/
+
 # - Feito por Ygor.
 
 import discord
